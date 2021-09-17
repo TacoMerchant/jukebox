@@ -1,1 +1,9 @@
 This is just a text file for me to explain what I plan to do eventually.
+
+Will probably use python wrapper for Spotify Web API called spotipy.
+    Get with 'pip install spotipy'
+Also need spotify web playback api
+
+Database: MySQL
+backend: django
+frontend: react or angular(typescript?)
